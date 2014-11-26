@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import sys
-current_word，current_count，word = None, 1, None
+current_word, current_count, word=None,1,None
 
 for line in sys.stdin:
     try: 
